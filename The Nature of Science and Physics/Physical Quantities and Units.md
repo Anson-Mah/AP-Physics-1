@@ -4,7 +4,7 @@
 * Be able to write units in scientific notation
 
 ## Definitions
-* Fundamental Units - Length, Mass, Time, and Electric Charge
+* Fundamental Units - Units that can only be expressed relative to the procedure used to measure them. These units are Length, Mass, Time, and Electric Charge.
 * Derived Unit - Units that can be expressed as a combination of fundamental units
 
 ## SI Units
