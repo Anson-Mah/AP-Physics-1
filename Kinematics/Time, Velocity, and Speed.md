@@ -17,3 +17,5 @@
 * Speed is the magnitude of velocity
 
 ## Average Speed vs. Average Velocity
+![Screenshot 2025-06-08 003258](https://github.com/user-attachments/assets/a1628e3e-a641-47fa-bf66-089cde088fa8)
+![Models for Previous Image](https://github.com/user-attachments/assets/673fd2ea-ae93-46e8-a9d1-c3967df0038c)
