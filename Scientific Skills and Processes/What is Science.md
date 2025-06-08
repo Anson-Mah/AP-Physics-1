@@ -1,4 +1,4 @@
-## Goals
+## Learning Objectives
 - Explain the nature of science
 - Identify the validity of data
 - Analyze what is and what is not science
