@@ -22,10 +22,11 @@ We can use our knowledge of the length of the ramp to measure the position. To p
 # Part B [Graphing]
 
 Using the given table, here is a time-position graph made with Desmos.
-![Screenshot of Desmos](desmos-scatter-plot.png)
+![desmos-scatter-plot](https://github.com/user-attachments/assets/392b6b44-06cf-4a01-b7a9-dee67c6266d7)
 
 Using Desmos, we can generate a quadratic regression, a curve of best fit for our data points. The equation for this curve is $y = 1.2919x^{2}-0.120714x+0.0466667$
-![Screenshot of Desmos](desmos-with-regression.png)
+![desmos-with-regression](https://github.com/user-attachments/assets/a5408696-d990-4885-b8cb-9592d2de5039)
+
 
 # Part C [Determining Acceleration]
 The equation of our best fit curve for our time-position graph is $y = 1.2919x^{2}-0.120714x+0.0466667$. 
