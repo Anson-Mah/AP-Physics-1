@@ -30,7 +30,7 @@ $\frac{-h}{-4.9} = t^2$
 
 $\frac{h}{4.9} = t^2$
 
-$\plusmn\sqrt{\frac{h}{4.9}} = t$
+$±\sqrt{\frac{h}{4.9}} = t$
 
 Since time cannot be negative, $t$ has to be positive.
 
@@ -52,9 +52,10 @@ Therefore, given horizontal velocity (v) and the ball's initial height above the
 For Part B, we are asked to draw a vertical velocity vs time graph for the left and right balls, then comapre and contrast the graphs.
 
 Here is a graph for the left ball's vertical velocity.
-
+![negative_g](https://github.com/user-attachments/assets/a79568c2-f47f-4170-82c3-de8c07d29d1b)
 
 Here is a graph for the right ball's vertical velocity.
+![negative_g](https://github.com/user-attachments/assets/a79568c2-f47f-4170-82c3-de8c07d29d1b)
 
 These two graphs are the exact same. This is because horizontal motion and vertical motion are independent of each other. Since both balls are in free fall, that means they both have an acceleration of -9.8 meters per second per second. This means that for both balls, the velocity increases by -9.8 meters per second every second.
 
