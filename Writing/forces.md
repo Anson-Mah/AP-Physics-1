@@ -1,8 +1,11 @@
 # Part A
-
+![fbd1](https://github.com/user-attachments/assets/575208d1-90d1-4406-8ad1-aafb85d107fb)
 
 # Part B	
 We are asked to find Tension (T).
+
+Let's draw a free-body diagram, but this time we split the weight force into its components.
+![fbd2](https://github.com/user-attachments/assets/8aa2f9c6-e195-4290-8433-3201efb11304)
 
 Tension is on the parallel axis, meaning that we only need to focus on parallel forces.
 
@@ -40,12 +43,13 @@ Therefore, $w_\parallel = Mg\sin(\theta)$
 Therefore, the acceleration of the box is also equal to the mass of the box times the force of gravity times the sine of the incline angle.
 
 # Part D
-
+![wpar](https://github.com/user-attachments/assets/57fa3d60-be99-4456-936f-edc2171cdff8)
 
 # Part E
-Yes, both answers agree with eacher because they both accelerate at a pace of w<sub>II</sub>.
+Yes, both answers agree with each other because they both accelerate at a pace of w<sub>II</sub>.
 
 # Part F
+![wparmfric](https://github.com/user-attachments/assets/ca45e095-5fe9-4418-ab3d-82c62b21a79e)
 
 # Part G
 One similarity between the slopes of the two graphs is that that are both getting steeper as time increases.
