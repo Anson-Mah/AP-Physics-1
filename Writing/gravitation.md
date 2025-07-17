@@ -28,7 +28,7 @@ $g = 8.688 \frac{m}{s^2}$
 
 # Part B
 
-**INSERT IMAGE FBD_ISS**
+<img width="800" height="600" alt="fbdiss" src="https://github.com/user-attachments/assets/b95a945a-b64f-4048-bf89-404a477bf1ef" />
 
 The reason why astronauts in the ISS feel like they are in zero gravity is because not only is the astronaut falling towards the Earth, but the ISS itself is also falling towards the Earth. Because the astronauts and their surroundings fall in the same magnitude and direction, it gives the illusion of zero gravity.
 
@@ -75,9 +75,9 @@ We know that the ISS's velocity is 7670 meters per second.
 
 One orbit around the Earth is one trip across the orbit. We know that the circumfrence of a circle is $\pi$ times double the radius. 
 
-We know that the radius is 6771000 meters. Therefore, the circumfrence of the ISS's orbit is $6771000*2*\pi$ meters. 
+We know that the radius is 6771000 meters. Therefore, the circumfrence of the ISS's orbit is $6771000 * 2 * \pi$ meters. 
 
-Dividing the circumfrence by the ISS's velocity gives us the expression $\frac{6771000 *2*\pi}{7670}$, which give us an answer of 5547 secondss.
+Dividing the circumfrence by the ISS's velocity gives us the expression $\frac{6771000 * 2 * \pi}{7670}$, which give us an answer of **5547 seconds**.
 
 # Part E (2)
 
@@ -91,4 +91,4 @@ Divide the number of seconds in a day by the amount of seconds that the ISS take
 
 $\frac{86400}{5547} = 15.58$
 
-The ISS can make 15 full revolutions around the Earth in a single day.
+The ISS can make **15 full revolutions** around the Earth in a single day.
