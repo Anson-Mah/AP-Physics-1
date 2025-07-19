@@ -51,7 +51,7 @@ $v_f = 0 + g\sqrt{\frac{-2\sin d}{g}}$
 $v_f = g\sqrt{\frac{-2\sin d}{g}}$
 
 # Part C
-**EBAR**
+<img width="227" height="98" alt="ebar" src="https://github.com/user-attachments/assets/dbf20b30-6035-417f-bc80-a3d57c592299" />
 
 # Part D
 We know that the Potential Energy of a spring is $\frac{1}{2}kx^2$. We will just solve for x.
