@@ -54,17 +54,32 @@ $v_f = g\sqrt{\frac{-2\sin d}{g}}$
 <img width="227" height="98" alt="ebar" src="https://github.com/user-attachments/assets/dbf20b30-6035-417f-bc80-a3d57c592299" />
 
 # Part D
-We know that the Potential Energy of a spring is $\frac{1}{2}kx^2$. We will just solve for x.
+When the box is at the top of its ramp, its mechanical energy comprises of gravitational potential energy.
 
-$PE_s = \frac{1}{2}kx^2$
+As established from Part A, that energy is equal to $mg\sin d$.
 
-$2PE_s = kx^2$
+As the box slides down the ramp, its gravitational potential energy gets converted into kinetic energy.
 
-$\frac{2PE_s}{k} = x^2$
+When the box compressed the spring, that kinetic energy gets converted into the potential energy of the spring.
 
-$x = \frac{2PE_s}{k}$
+We know that the Potential Energy of a spring is $\frac{1}{2}kx^2$.
 
-Will a spring constant, k, the compression of the spring is equal to $\frac{2PE_s}{k}$.
+Since mechanical energy is conserved, we can conclude that the box's initial gravitational potential energy is equal to the potential energy of the spring.
+
+$mg\sin d = \frac{1}{2}kx^2$
+
+The total amount that the spring will be compressed is the spring's displacement, $x$. Therefore, we will solve for $x$. 
+
+$mg\sin d = \frac{1}{2}kx^2$
+
+$2mg\sin d = kx^2$
+
+$\frac{2mg\sin d}{k} = x^2$
+
+$\sqrt{\frac{2mg\sin d}{k}} = x$
+
+
+With a spring constant, k, the compression of the spring is equal to $\sqrt{\frac{2mg\sin d}{k}}$.
 
 # Part E
-The box will end up at a lower height than before. This is because even though all energy is conserved, some "useful energy" was lost from the collision, meaning that the box will not be able to reach the height it initially had.
+The box will end up at a same height as before. This is because all mechanical energy is conserved due to the lack of forces such as friction. There are no forces that would make the box lose or gain energy, so the box would simply return to its initial height.
