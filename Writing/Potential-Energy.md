@@ -51,7 +51,7 @@ $v_f = 0 + g\sqrt{\frac{-2\sin d}{g}}$
 $v_f = g\sqrt{\frac{-2\sin d}{g}}$
 
 # Part C
-<img width="227" height="98" alt="ebar" src="https://github.com/user-attachments/assets/dbf20b30-6035-417f-bc80-a3d57c592299" />
+<img width="227" height="98" alt="ebar" src="https://github.com/user-attachments/assets/4a140318-f5ac-4c4f-8671-fb3c864b3795" />
 
 # Part D
 When the box is at the top of its ramp, its mechanical energy comprises of gravitational potential energy.
