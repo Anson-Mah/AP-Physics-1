@@ -37,13 +37,13 @@ For reference, here was the table of data that was provided to us.
 
 Using this data, we can plot these points on a position vs time graph.
 
-**INSERT kpf**
+<img width="333" height="900" alt="kpt" src="https://github.com/user-attachments/assets/77cc449a-12fb-45e3-851b-a0b7af8c3b49" />
 
 Using Graphing Calculator software, we can generate a quadratic regression, a curve of best fit for our data points. The equation for this curve is $y = 1.2919x^{2}-0.120714x+0.0466667$
 
 Placing this curve onto the graph, we get this:
 
-**INSERT kpf_bf**
+<img width="333" height="900" alt="kpt_bf" src="https://github.com/user-attachments/assets/fbf4a683-2b27-40f7-936f-28b9e9c67158" />
 
 ## Gathering Velocity Data
 
@@ -115,13 +115,13 @@ Let us take the data for time and velocity.
 
 Using this data, we can plot these points on a velocity vs time graph.
 
-**INSERT vpf**
+<img width="333" height="900" alt="kpt" src="https://github.com/user-attachments/assets/1c5864d7-76cb-40a5-a2dd-a15b86964dce" />
 
 Using Graphing Calculator software, we can generate a linear regression, a line of best fit for our data points. The equation for this line is $y = 2.55857x-0.0664286$
 
 Placing this line onto the graph, we get this:
 
-**INSERT vpf_bf**
+<img width="333" height="900" alt="kpt_bf" src="https://github.com/user-attachments/assets/05d2c44c-da9a-4728-bbed-c9a6087f4400" />
 
 # Part C
 
