@@ -3,13 +3,13 @@ The tensions in the rope connected to the boxes must have the same magnitude bec
 
 # Part B
 
-**INSERT FBDRB**
+<img width="225" height="348" alt="fbdrb" src="https://github.com/user-attachments/assets/7f96113c-d286-48dc-9fbd-526a92dd6846" />
 
 # Part C
 
 First we will identify the magnitude of the forces involved. We will assume that up is positive and down is negative.
 
-**INSERT FBDRBV**
+<img width="225" height="348" alt="fbdrbv" src="https://github.com/user-attachments/assets/fe6b5ad4-ed54-452d-8f84-35a5ac049120" />
 
 To get the net force, we add up all the forces involved.
 
@@ -37,7 +37,7 @@ $a = -\frac{m_2g}{m_1}$
 
 # Part D
 
-**INSERT grota**
+<img width="804" height="495" alt="groda" src="https://github.com/user-attachments/assets/304df3ff-fd52-49da-9ee3-f70674740203" />
 
 As you can see, our graph is a horizontal line. This is because our acceleration is constant. Our acceleration is constant because we only used variables that remain constant to calculate acceleration. Mass is constant, and g is constant as well.
 
@@ -98,8 +98,8 @@ $a = \frac{(m_1-m_2) + g}{(\frac{1}{2}M - 1)}$
 
 # Part I
 
-**INSERT grotab**
+<img width="804" height="495" alt="grodab" src="https://github.com/user-attachments/assets/02435f95-e10a-4eba-84fb-bf0bf6fa89a8" />
 
-One similarity between this graph and the graph from Part D is that they both feature a straight line. This is because acceleration is constant in both cases.
+One similarity between this graph and the graph from Part D is that they both feature a straight horizontal line. This is because acceleration is constant in both cases.
 
 One difference between this graph and the graph from Part D is that the values for acceleration are different. On Part D's graph, acceleration is equal to $-\frac{m_2g}{m_1}$, while the acceleration in Part I's graph is equal to $\frac{(m_1-m_2) + g}{(\frac{1}{2}M - 1)}$.
