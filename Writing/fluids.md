@@ -21,7 +21,7 @@ We can calculate the volume of each object, then add it as a new column in our d
 The aluminium cube is the most likely candidate to not float in the water because it has the heaviest density. 
 
 # Part C
-**INSERT FBDF**
+<img width="800" height="532" alt="fbdf" src="https://github.com/user-attachments/assets/534d684c-e2a9-4582-a8a3-a722a6a9c3d3" />
 
 $\Sigma F = ma$
 
