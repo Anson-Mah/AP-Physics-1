@@ -1,5 +1,5 @@
 # Part A
-**INSERT SINEAT**
+<img width="1657" height="170" alt="sineat" src="https://github.com/user-attachments/assets/3f819601-7172-4f27-8065-32caede78ff0" />
 
 $T = 2\pi\sqrt{\frac{M}{k}}$
 
@@ -10,13 +10,13 @@ We will first see *where* the maximum velocity of the block occurs, then use tha
 
 Let's take our graph from Part A. 
 
-**INSERT SINEAT**
+<img width="1657" height="170" alt="sineat" src="https://github.com/user-attachments/assets/a3428051-e076-46f7-b17d-9bc20541ee3d" />
 
 This graph shows us five oscillations of the spring-block system. All five oscillations of the system are the exact same because there is no friction or damping.
 
 Since all five oscillations of the system are the exact same, let's just focus on one oscillation.
 
-**INSERT SINEONE**
+<img width="397" height="170" alt="sineone" src="https://github.com/user-attachments/assets/6b1a84ff-49bd-44be-87f2-8664aa7db847" />
 
 We know that the slope of a Position-Time graph is Velocity. We also know that a steeper slope represents a greater slope. In the case of a Position-Time graph, a greater slope would mean a greater Velocity.
 
@@ -28,11 +28,11 @@ Position A and Position -A are what we call "extrema". The limit. The block does
 
 Notice the slope of the positions at these extrema. They are a straight line, and therefore have a slope of zero. This is because they are the extrema. Before reaching either extrema, the magnitude of the position of the block is less than that extrema. After passing either extrema, the magnitude of the position of the block is also less than that extrema. 
 
-**INSERT SINESLOPEZERO**
+<img width="397" height="170" alt="sineslopezero" src="https://github.com/user-attachments/assets/5b0e71cf-4136-4c30-99e1-dc4d637695ec" />
 
 Let's focus on one-half of an oscillation.
 
-**INSERT SINESLOPEZEROPINK**
+<img width="397" height="170" alt="sineslopezeropink" src="https://github.com/user-attachments/assets/be4542c0-08d1-4a96-abcc-c0cfba60a427" />
 
 On the edges of the half-oscillation are the extrema, Position -A and Position A. We already know that the slopes of these points are zero. 
 
@@ -40,7 +40,7 @@ But what are the slopes of the points in between the extrema?
 
 Let's take a look.
 
-**INSERT SINESLOPEZEROPINKBLUELINES**
+<img width="397" height="170" alt="sineslopezeropinkbluelines" src="https://github.com/user-attachments/assets/646ad782-8e79-43b2-bc6c-4b9d710f950a" />
 
 The blue lines represent the slope of the graph at that position. Notice that the closer the points are to the extrema, the smaller the slopes get. Notice that the further away the points are to the extrema, the steeper the slope gets.
 
@@ -50,7 +50,7 @@ So, what is that point?
 
 That point would be the middle of this half-oscillation.
 
-**INSERT SINESLOPEZEROPINKBLUELINESYELLOWPOINT**
+<img width="397" height="170" alt="sineslopezeropinkbluelinesyellowpoint" src="https://github.com/user-attachments/assets/bf5faad1-5bca-4702-a558-aa7a335fd56c" />
 
 At this center point, the slope of the graph is the greatest and steepest.
 
