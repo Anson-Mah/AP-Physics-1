@@ -30,7 +30,7 @@ Since the incline is frictionless, that means $f = 0$.
 
 Now, the only force parallel to the incline is the parallel component of weight (w<sub>II</sub>).
 
-Therefore, the acceleration of the box is equal to the parallel component of weight (w<sub>II</sub>).
+Therefore, **the acceleration of the box is equal to the parallel component of weight (w<sub>II</sub>)**.
 
 We can define this variable in terms of other variables.
 
@@ -43,17 +43,21 @@ Therefore, $w_\parallel = Mg\sin(\theta)$
 Therefore, the acceleration of the box is also equal to the mass of the box times the force of gravity times the sine of the incline angle.
 
 # Part D
-![wpar](https://github.com/user-attachments/assets/57fa3d60-be99-4456-936f-edc2171cdff8)
+**REPLACE WPAR**
 
 # Part E
-Yes, both answers agree with each other because they both accelerate at a pace of w<sub>II</sub>.
+Part C identifies a value for acceleration, the parallel component of the object's weight. Part D graphs the velocity as a non-horizontal straight line.
+
+Yes, both answers agree with each other. 
+
+Both answers show us a constant acceleration, which is why the two answers agree with each other.
 
 # Part F
-![wparmfric](https://github.com/user-attachments/assets/ca45e095-5fe9-4418-ab3d-82c62b21a79e)
+**REPLACE WPARMFRIC**
 
 # Part G
-One similarity between the slopes of the two graphs is that that are both getting steeper as time increases.
+One similarity between the slopes of the two graphs is that they both remain the same throughout the entire graph.
 
 Another similarity between the slopes of the two graphs is that they are both positive slopes.
 
-A difference between the slopes of the two graphs is that Graph D's slope will be steeper than Graph F's slope at any time other than 0. This is because the acceleration for Graph D is higher than Graph F because Part D assumes a frictionless incline while Part F accounts for friction.
+A difference between the slopes of the two graphs is that Graph D's slope will be steeper than Graph F's slope at any time other than 0. This is because the acceleration for Graph D is higher than Graph F because Part D assumes a frictionless incline while Part F accounts for friction. Notice that the y-axis values for Graph D are $w_\parallel$, while the y-axis values for Graph F are $w_\parallel - f$.

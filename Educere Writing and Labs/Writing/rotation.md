@@ -3,37 +3,26 @@ The tensions in the rope connected to the boxes must have the same magnitude bec
 
 # Part B
 
-<img width="225" height="348" alt="fbdrb" src="https://github.com/user-attachments/assets/7f96113c-d286-48dc-9fbd-526a92dd6846" />
+**REPLACE FBDRB**
 
 # Part C
+Assume that the upwards direction is positive, and the downwards direction is negative.
 
-First we will identify the magnitude of the forces involved. We will assume that up is positive and down is negative.
+Identify the forces acting upon mass one.
 
-<img width="225" height="348" alt="fbdrbv" src="https://github.com/user-attachments/assets/fe6b5ad4-ed54-452d-8f84-35a5ac049120" />
+**REPLACE FBDRBV**
 
-To get the net force, we add up all the forces involved.
+$\Sigma F = T - m_1g$
 
-$\Sigma F = (m_1g - m_2g) + (-m_1g)$
+Newton's Second Law: $a = \frac{\Sigma F}{m}$
 
-$\Sigma F = (m_1g - m_2g) - (m_1g)$
+In this case, $m = m_1$
 
-$\Sigma F = (m_1g - m_2g - m_1g)$
+$a = \frac{\Sigma F}{m_1}$
 
-$\Sigma F = -m_2g$ 
+$\Sigma F = T - m_1g$
 
-Now we can use Newton's Second Law to solve for acceleration.
-
-$\Sigma F = ma$
-
-$a = \frac{\Sigma F}{m}$
-
-$m = m_1$
-
-$\Sigma F = -m_2g$
-
-$a = \frac{-m_2g}{m_1}$
-
-$a = -\frac{m_2g}{m_1}$
+$a = \frac{T - m_1g}{m_1}$
 
 # Part D
 
