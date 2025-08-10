@@ -3,14 +3,14 @@ The tensions in the rope connected to the boxes must have the same magnitude bec
 
 # Part B
 
-**REPLACE FBDRB**
+<img width="204" height="348" alt="fbdrb" src="https://github.com/user-attachments/assets/010fb516-4912-462f-b6f9-ce281208bd60" />
 
 # Part C
 Assume that the upwards direction is positive, and the downwards direction is negative.
 
 Identify the forces acting upon mass one.
 
-**REPLACE FBDRBV**
+<img width="204" height="348" alt="fbdrbv" src="https://github.com/user-attachments/assets/7ae687d9-c2bb-45db-9c92-df7624d87e38" />
 
 $\Sigma F = T - m_1g$
 
