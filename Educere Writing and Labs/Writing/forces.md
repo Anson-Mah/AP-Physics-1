@@ -43,7 +43,7 @@ Therefore, $w_\parallel = Mg\sin(\theta)$
 Therefore, the acceleration of the box is also equal to the mass of the box times the force of gravity times the sine of the incline angle.
 
 # Part D
-**REPLACE WPAR**
+<img width="840" height="795" alt="wpar" src="https://github.com/user-attachments/assets/a6f15501-f032-410b-8380-d654a68fa9c5" />
 
 # Part E
 Part C identifies a value for acceleration, the parallel component of the object's weight. Part D graphs the velocity as a non-horizontal straight line.
@@ -53,7 +53,7 @@ Yes, both answers agree with each other.
 Both answers show us a constant acceleration, which is why the two answers agree with each other.
 
 # Part F
-**REPLACE WPARMFRIC**
+<img width="840" height="795" alt="wparmfric" src="https://github.com/user-attachments/assets/68c45cd9-2ee8-413f-8b8e-afb3185e07fd" />
 
 # Part G
 One similarity between the slopes of the two graphs is that they both remain the same throughout the entire graph.
