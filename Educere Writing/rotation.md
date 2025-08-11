@@ -36,7 +36,14 @@ $F_1 = T_1 - m_1g$
 
 $F_1 = ma$
 
+$T_1 - m_1g = m_1a$
+
+Acceleration is downwards, so $a$ is negative.
+
+$T_1 - m_1g = m_1(-a)$
+
 $T_1 - m_1g = -m_1a$
+
 
 # Part F
 
@@ -67,23 +74,23 @@ $T_1 - T_2 = \frac{1}{2}Ma$
 
 # Part H
 
-$T_1 - m_1g = m_1a$ \
-$T_1 = m_1a + m_1g$ \
-$T_1 = m_1(a+g)$ 
+$T_1 - m_1g = -m_1a$ \
+$T_1 = -m_1a + m_1g$ \
+$T_1 = m_1g - m_1a$ 
 
 $T_2 - m_2g = m_2a$ \
-$T_2 = m_2a + m_2g$ \
-$T_2 = m_2(a+g)$ 
+$T_2 = m_2a + m_2g$ 
 
 $T_1 - T_2 = \frac{1}{2}Ma$ \
-$m_1(a+g) - m_2(a+g) = \frac{1}{2}Ma$ \
-$(a+g)(m_1-m_2) = \frac{1}{2}Ma$ \
-$(m_1-m_2) = \frac{1}{2}Ma - (a+g)$ \
-$(m_1-m_2) = \frac{1}{2}Ma - a - g$ \
-$(m_1-m_2) = a(\frac{1}{2}M - 1) - g$ \
-$(m_1-m_2) + g = a(\frac{1}{2}M - 1)$ \
+$(m_1g - m_1a) - (m_2a + m_2g) = \frac{1}{2}Ma$ \
+$m_1g - m_1a - m_2a - m_2g = \frac{1}{2}Ma$ \
+$- m_1a - m_2a + m_1g - m_2g = \frac{1}{2}Ma$ \
+$-a(m_1 + m_2) + g(m_1 - m_2) = \frac{1}{2}Ma$ \
+$g(m_1 - m_2) = \frac{1}{2}Ma + a(m_1 + m_2)$ \
+$g(m_1 - m_2) = a(\frac{1}{2}M + (m_1 + m_2))$ \
+$g(m_1 - m_2) = a(\frac{1}{2}M + m_1 + m_2)$ 
 
-$a = \frac{(m_1-m_2) + g}{(\frac{1}{2}M - 1)}$
+$a = \frac{g(m_1 - m_2)}{\frac{1}{2}M + m_1 + m_2}$
 
 # Part I
 
